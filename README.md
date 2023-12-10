@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
 <h3 align="center">A junior C developer from Armenia</h3>
 
-- 🎓 I'm trying to get admitted to School 42 [Ecole 42](https://42yerevan.am/)
+- 🎓 I have completed the selection pool at [School 42](https://42yerevan.am/)
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available here [https://github.com/Stanislavmg](https://github.com/Stanislavmg)
+- 👨‍💻 All of my projects are available [here](https://github.com/Stanislavmg)
 
-- 💬 Ask me about **https://t.me/stanislavgm**
+- 💬 Ask me about in [Telegram](https://t.me/stanislavgm)
 
 - 📫 How to reach me **stanislav.as1998@gmail.com**
 
