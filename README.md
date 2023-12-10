@@ -10,8 +10,7 @@
 - 💬 Ask me about in [Telegram](https://t.me/stanislavgm)
 
 - 📫 How to reach me **stanislav.as1998@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
