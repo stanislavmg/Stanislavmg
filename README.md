@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
-<h3 align="center">A junior C developer from Armenia</h3>
+<h3 align="center">A junior developer and a student at School 42</h3>
 
 - 🎓 I have completed the selection pool at [School 42](https://42yerevan.am/)
 
