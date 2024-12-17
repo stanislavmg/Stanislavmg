@@ -1,9 +1,10 @@
 ## Student of [Ecole 42](https://42yerevan.am/)
+
 ## 🔗 Links
 - [Telegram](https://t.me/stanislavinra)
 - [Mail](stanislav.as1998@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/stanislav-goremykin)
-- [Leetcode](https://leetcode.com/u/Stanislav_gm)
+
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Stanislav_gm?theme=dark&font=Roboto)
 
