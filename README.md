@@ -1,4 +1,4 @@
-## 4️⃣2️⃣ Student of [Ecole 42](https://42yerevan.am/)
+## 🎓 Student of [Ecole 42](https://42yerevan.am/)
 
 ## 🔗 Links
 - [**Telegram**](https://t.me/stanislavinra)
