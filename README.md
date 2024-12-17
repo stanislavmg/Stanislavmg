@@ -4,7 +4,8 @@
 - [Mail](stanislav.as1998@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/stanislav-goremykin)
 - [Leetcode](https://leetcode.com/u/Stanislav_gm)
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Stanislav_gm)](https://github.com/KnlnKS/leetcode-stats)
+
+![LeetCode stats Stats](https://leetcode-status.vercel.app/api/card/Stanislav_gm?theme=dark&hide_title=true&custom_title=LeetCode stats)
 
 <h2 align="left">My stack</h2>
 <p align="left">
