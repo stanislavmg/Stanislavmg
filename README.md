@@ -1,9 +1,9 @@
-<h3 align="left">Student of [Ecole 42](https://42yerevan.am/)</h3>
-<h3 align="left">Contacts</h3>
-[Telegram](https://t.me/stanislavinra)
-[Mail](stanislav.as1998@gmail.com)
-[Linkedin](https://www.linkedin.com/in/stanislav-goremykin)
-[Leetcode](https://leetcode.com/u/Stanislav_gm)
+## Student of [Ecole 42](https://42yerevan.am/)
+## Contacts
+- [Telegram](https://t.me/stanislavinra)
+- [Mail](stanislav.as1998@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/stanislav-goremykin)
+- [Leetcode](https://leetcode.com/u/Stanislav_gm)
 
 <p align="left">
 </p>
