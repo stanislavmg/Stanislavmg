@@ -1,12 +1,9 @@
-## Student of [Ecole 42](https://42yerevan.am/)
+## 4️⃣2️⃣ Student of [Ecole 42](https://42yerevan.am/)
 
 ## 🔗 Links
-- [Telegram](https://t.me/stanislavinra)
-- [Mail](stanislav.as1998@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/stanislav-goremykin)
-
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Stanislav_gm?theme=dark&font=Roboto)
+- [**Telegram**](https://t.me/stanislavinra)
+- [**Mail**](stanislav.as1998@gmail.com)
+- [**Linkedin**](https://www.linkedin.com/in/stanislav-goremykin)
 
 <h2 align="left">My stack</h2>
 <p align="left">
@@ -20,3 +17,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://userver.tech/index.html" target="_blank" rel="noreferrer"> <img src="https://userver.tech/logo.svg" alt="userver" width="40" height="40"/> </a>
 </p>
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Stanislav_gm?theme=dark&font=Roboto)
