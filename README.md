@@ -2,8 +2,8 @@
 
 ## 🔗 Links
 - [**Telegram**](https://t.me/stanislavinra)
-- [**Mail**](stanislav.as1998@gmail.com)
 - [**Linkedin**](https://www.linkedin.com/in/stanislav-goremykin)
+- [**CV**](https://stanislavmg.github.io/)
 
 <h2 align="left">My stack</h2>
 <p align="left">
